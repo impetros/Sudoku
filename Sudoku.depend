@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1515003307 source:d:\codeblocks\projects\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1515662959 source:c:\users\toshiba\desktop\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functii_sudoku.h"
+
+1515662959 c:\users\toshiba\desktop\sudoku\functii_sudoku.h
+
